@@ -1,0 +1,2 @@
+2018-04-17 22:48:13
+While reading from 'case.txt' [line 81]: section '1' already exists
