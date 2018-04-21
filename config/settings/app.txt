@@ -1,6 +1,8 @@
 [hospital]
 0 = 绵阳市人民医院病理科
 1 = 什邡市人民医院
+2 = 眉山市人民医院
 
 [current]
-hospital = 1
+hospital = 什邡市人民医院
+
