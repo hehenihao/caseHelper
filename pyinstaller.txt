@@ -1,0 +1,1 @@
+pyinstaller -w -i icon.ico -F case.py

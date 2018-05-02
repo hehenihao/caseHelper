@@ -3,20 +3,16 @@
 import base64
 import configparser
 import os
-import shutil
 import sqlite3
 import time
 import tkinter as tk
 from tkinter import messagebox, ttk
-import sys
 
-from docxtpl import DocxTemplate, InlineImage
 # for height and width you have to use millimeters (Mm), inches or points(Pt) class :
-from docx.shared import Mm, Inches, Pt
+from docx.shared import Mm  # , Inches, Pt
+from docxtpl import DocxTemplate, InlineImage
 
 from icon import img
-
-#python-docx-template
 
 os.chdir(os.path.abspath(os.path.dirname(__file__)))
 # print(os.getcwd())
